@@ -4,11 +4,11 @@ In this assignment you will build an interactive bank administrator interface, w
 
 
 # Instructions
-1. Fork this repository and create a new branch for your development work
+1. Clone (**please, don't fork!**) this repository and create a new branch for your development work
 1. Create your implementation following the [Specification](#specification) below
 1. Add instructions on how to run your implementation to the [Getting Started](#getting-started) section.
 1. In the [follow-up questions](#follow-up-questions) section below, respond inline to each of the questions.
-1. Commit your implementation and answers to your fork and give us access to the repo.
+1. Commit your implementation and answers to a new private repo in your personal GH and give `@avyfain` access to the repo.
 
 **Guidelines:**
 - Do not spend longer than two hours on your implementation, a perfect implementation is not required or expected. Please move on to the [follow-up questions](#follow-up-questions) after that.
